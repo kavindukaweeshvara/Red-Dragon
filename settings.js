@@ -12,7 +12,14 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `📤I am alive now😇
+🤷‍♀️How can I help you?😉
+
+💫 𝘿𝙅 𝙐𝙙𝙖𝙧𝙖 𝙍𝙚𝙢𝙞𝙭 (𝙊𝙒𝙉𝙀𝙍 :- 𝙏𝙝𝙚𝙢𝙞𝙮𝙖 𝙐𝙙𝙖𝙧𝙖)
+
+👑🔊 *My Bot Group Link 👇* 
+
+https://chat.whatsapp.com/E8c56VQ0xYk8wImn5p8hsj` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,8 +36,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner =['+94769880718'] // owner number
+global.ownername = "𝘿𝙅 𝙐𝙙𝙖𝙧𝙖 𝙍𝙚𝙢𝙞𝙭 (𝙊𝙒𝙉𝙀𝙍 :- 𝙏𝙝𝙚𝙢𝙞𝙮𝙖 𝙐𝙙𝙖𝙧𝙖)" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -47,11 +54,11 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
+global.owner = ['+94769880718']
 global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.botname = 'DJ UDARAremix- official 𝘉𝘖𝘛' //ur bot name
+global.packname = "Udara's sticker" // sticker packname
+global.author = "DJ╺ Udara" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
