@@ -12,14 +12,13 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `📤I am alive now😇
 🤷‍♀️How can I help you?😉
 
 💫 𝘿𝙅 𝙐𝙙𝙖𝙧𝙖 𝙍𝙚𝙢𝙞𝙭 (𝙊𝙒𝙉𝙀𝙍 :- 𝙏𝙝𝙚𝙢𝙞𝙮𝙖 𝙐𝙙𝙖𝙧𝙖)
 
 👑🔊 *My Bot Group Link 👇* 
 
-https://chat.whatsapp.com/E8c56VQ0xYk8wImn5p8hsj` )
+https://chat.whatsapp.com/E8c56VQ0xYk8wImn5p8hsj` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
