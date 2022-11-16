@@ -42,19 +42,19 @@ global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/X2BrTrm/IMG-20221115-WA0013.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/Hqq24QY/IMG-20221115-WA0016.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "false" // To remove group link sharing peoples
+global.antilink = "true" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+94769880718']
-global.ownertag = '+380944814219' //your tag number
+global.ownertag = '+94769880718,+94761332025' //your tag number
 global.botname = 'DJ UDARAremix- official 𝘉𝘖𝘛' //ur bot name
 global.packname = "Udara's sticker" // sticker packname
 global.author = "DJ╺ Udara" // sticker author
@@ -100,7 +100,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thum = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://i.ibb.co/Hqq24QY/IMG-20221115-WA0016.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur error pic
 global.thumb = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur thumb pic
